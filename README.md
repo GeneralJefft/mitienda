@@ -1,0 +1,2 @@
+# mitienda
+wordpress
